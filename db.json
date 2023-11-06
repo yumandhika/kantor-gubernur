@@ -1,301 +1,301 @@
 {
-  "data" : [
- {
-   "ID": 1,
-   "PROVINSI": "Aceh",
-   "ALAMAT KANTOR GUBERNUR": "JL. T. Nyak Arief No.219, Banda Aceh (23114)",
-   "ALAMAT WEBSITE": "www.acehprov.go.id",
-   "TELPON": "T: (0651)-7551377\nF: (0651)-7552307,  7555516, 7555518, 7553048",
-   "E-MAIL": "humas@acehprov.go.id",
-   "GAMBAR": "https://www.ajnn.net/files/images/20200304-20190108-kantor-gubbb.jpg"
- },
- {
-   "ID": 2,
-   "PROVINSI": "Sumatera Utara",
-   "ALAMAT KANTOR GUBERNUR": "JL. Pangeran Diponegoro No.30, Medan (20152)",
-   "ALAMAT WEBSITE": "http://www.sumutprov.go.id/",
-   "TELPON": "T: (061)-4567611\nF: (061)-456711, 520111, 4535449",
-   "E-MAIL": "secretariat@sumutprov.go.id",
-   "GAMBAR": "https://sumutprov.go.id/content/userfiles/Kantor_Gubernur_Sumatra_Utara_03.jpg"
- },
- {
-   "ID": 3,
-   "PROVINSI": "Sumatera Barat",
-   "ALAMAT KANTOR GUBERNUR": "JL. Jenderal Sudirman No.51, Padang",
-   "ALAMAT WEBSITE": "https://www.sumbarprov.go.id/",
-   "TELPON": "(0751)-31401, 31402, 34425",
-   "E-MAIL": "diskominfo@sumbarprov.go.id",
-   "GAMBAR": "https://www.sumbarprov.go.id/images/2020/07/slider/MASJID_RAYA_SUMBAR.png"
- },
- {
-   "ID": 4,
-   "PROVINSI": "Riau",
-   "ALAMAT KANTOR GUBERNUR": "JL. Jenderal Sudirman No.460, Pekanbaru, Riau (28156)",
-   "ALAMAT WEBSITE": "https://www.riau.go.id/home/",
-   "TELPON": "(0761)-47367, 47368",
-   "E-MAIL": "",
-   "GAMBAR": "https://upload.wikimedia.org/wikipedia/commons/5/59/Kantor_gubernur_riau_-_panoramio.jpg"
- },
- {
-   "ID": 5,
-   "PROVINSI": "Jambi",
-   "ALAMAT KANTOR GUBERNUR": "JL. Jenderal A. Yani No.1 Talanai Pura Jambi (36128)",
-   "ALAMAT WEBSITE": "http://jambiprov.go.id/v2/",
-   "TELPON": "(0741)-66269",
-   "E-MAIL": "",
-   "GAMBAR": "https://wartanews.co/wp-content/uploads/2017/03/Kantor-Gubernur-Provinsi-Jambi.jpg"
- },
- {
-   "ID": 6,
-   "PROVINSI": "Sumatera Selatan",
-   "ALAMAT KANTOR GUBERNUR": "Jln. Kapten A. Rifai No. 1, Palembang",
-   "ALAMAT WEBSITE": "http://www.sumselprov.go.id/",
-   "TELPON": "(0711)-352105",
-   "E-MAIL": "",
-   "GAMBAR": "https://lh3.googleusercontent.com/p/AF1QipPuITB_wYvAKy-a9zgjJqg508PDvgqxhDz6QdPa=s680-w680-h510"
- },
- {
-   "ID": 7,
-   "PROVINSI": "Bengkulu",
-   "ALAMAT KANTOR GUBERNUR": "JL. Pembangunan  No. 1, Bengkulu (38225)",
-   "ALAMAT WEBSITE": "https://bengkuluprov.go.id/",
-   "TELPON": "(0736)-21502",
-   "E-MAIL": "",
-   "GAMBAR": "https://bengkuluprov.go.id/wp-content/uploads/GEDUNG.jpg"
- },
- {
-   "ID": 8,
-   "PROVINSI": "Lampung",
-   "ALAMAT KANTOR GUBERNUR": "JL. Wolter Monginsidi No. 69, Teluk Betung, Bandar Lampung",
-   "ALAMAT WEBSITE": "http://www.lampungprov.go.id/",
-   "TELPON": "(0721)-481166",
-   "E-MAIL": "",
-   "GAMBAR": "https://www.indoplaces.com/foto/region/kantor-gubernur-lampung-2.jpg"
- },
- {
-   "ID": 9,
-   "PROVINSI": "Bangka Belitung",
-   "ALAMAT KANTOR GUBERNUR": "Komplek Perkantoran Terpadu, Jalan Pulau Bangka, Air Itam,\nPangkalpinang 33149",
-   "ALAMAT WEBSITE": "http://babelprov.go.id/",
-   "TELPON": "(0717)-4262141,  4262142",
-   "E-MAIL": "",
-   "GAMBAR": "https://asset-2.tstatic.net/bangka/foto/bank/images/kantor-gubernur-kep-babel-pada-ju.jpg"
- },
- {
-   "ID": 10,
-   "PROVINSI": "Kepulauan Riau",
-   "ALAMAT KANTOR GUBERNUR": "Pulau Dompak Jl. Basuki Rahmat Tanjung Pinang",
-   "ALAMAT WEBSITE": "https://www.kepriprov.go.id/",
-   "TELPON": "(0771)-4575000",
-   "E-MAIL": "mail@kepriprov.go.id",
-   "GAMBAR": "https://kepri.info/4rie-eval/uploads/2019/04/WhatsApp_Image_2018-10-23_at_16_56_00.jpeg"
- },
- {
-   "ID": 11,
-   "PROVINSI": "D.K.I Jakarta",
-   "ALAMAT KANTOR GUBERNUR": "JL. Medan Merdeka Selatan No.8-9, Jakarta Pusat (10110)",
-   "ALAMAT WEBSITE": "https://www.jakarta.go.id/",
-   "TELPON": "(021)-3456058",
-   "E-MAIL": "dki@jakarta.go.id",
-   "GAMBAR": "https://statik.tempo.co/data/2021/05/26/id_1023616/1023616_720.jpg"
- },
- {
-   "ID": 12,
-   "PROVINSI": "Jawa Barat",
-   "ALAMAT KANTOR GUBERNUR": "Gedung Sate Jl. Diponegoro No.22, Citarum\nBandung Wetan, Kota Bandung, Jawa Barat (40115)",
-   "ALAMAT WEBSITE": "http://www.jabarprov.go.id",
-   "TELPON": "(022)-423248, 4233347, 4230993",
-   "E-MAIL": "",
-   "GAMBAR": "https://asset.kompas.com/crops/cmekAZ7jKvYHEfoYRpByA_oWsIA=/115x217:915x750/750x500/data/photo/2023/08/13/64d87d100ad37.jpg"
- },
- {
-   "ID": 13,
-   "PROVINSI": "Jawa Tengah",
-   "ALAMAT KANTOR GUBERNUR": "JL. Pahlawan No.9, Semarang (50249)",
-   "ALAMAT WEBSITE": "https://jatengprov.go.id/",
-   "TELPON": "(024)-8415548 / 8453676",
-   "E-MAIL": "",
-   "GAMBAR": "https://bangda.jatengprov.go.id/assets/images/upload/profil.jpg"
- },
- {
-   "ID": 14,
-   "PROVINSI": "D.I Yogyakarta",
-   "ALAMAT KANTOR GUBERNUR": "JL. Malioboro No.16, Suryatmajan, Komplek Kepatihan\nDanurejan, Kota Yogyakarta (55213)",
-   "ALAMAT WEBSITE": "https://www.jogjaprov.go.id/",
-   "TELPON": "(0274)-562811,  512655",
-   "E-MAIL": "",
-   "GAMBAR": "https://jogjaprov.go.id/storage/files/shares/Berita/2022/Maret/Rekam%20Jejak%20Sejarah%20di%20Istana%20Kepresidenan%20Daerah%20Istimewa%20Yogyakarta/istana%201.jpg"
- },
- {
-   "ID": 15,
-   "PROVINSI": "Jawa Timur",
-   "ALAMAT KANTOR GUBERNUR": "JL. Pahlawan No.110, Alun-alun Contong, Kota Surabaya (60174)",
-   "ALAMAT WEBSITE": "http://www.jatimprov.go.id/",
-   "TELPON": "(031)-20005, 20044, 3557141",
-   "E-MAIL": "",
-   "GAMBAR": ""
- },
- {
-   "ID": 16,
-   "PROVINSI": "Banten",
-   "ALAMAT KANTOR GUBERNUR": "Kawasan Pusat Pemerintah Provinsi Banten, Jl. Syech Nawawi\nAl-bantani No. 1, Sukajaya, Curug, Kota Serang, Banten (42111)",
-   "ALAMAT WEBSITE": "https://bantenprov.go.id/",
-   "TELPON": "(0254)-200123",
-   "E-MAIL": "",
-   "GAMBAR": ""
- },
- {
-   "ID": 17,
-   "PROVINSI": "Bali",
-   "ALAMAT KANTOR GUBERNUR": "JL. Basuki Rahmat No. 1, Denpasar",
-   "ALAMAT WEBSITE": "http://www.baliprov.go.id",
-   "TELPON": "(0361)-224671,  35155",
-   "E-MAIL": "",
-   "GAMBAR": ""
- },
- {
-   "ID": 18,
-   "PROVINSI": "Nusa Tenggara Barat",
-   "ALAMAT KANTOR GUBERNUR": "JL. Pejanggik No.12, Pejanggik, Kec. Mataram, Kota Mataram\nNusa Tenggara Barat (83122)",
-   "ALAMAT WEBSITE": "https://www.ntbprov.go.id/",
-   "TELPON": "(0370)-31000, 622373, 622833",
-   "E-MAIL": "",
-   "GAMBAR": ""
- },
- {
-   "ID": 19,
-   "PROVINSI": "Nusa Tenggara Timur",
-   "ALAMAT KANTOR GUBERNUR": "JL. El Tari No.52, Oebobo, Kota Kupang, NTT (85111)",
-   "ALAMAT WEBSITE": "http://nttprov.go.id/ntt2016/",
-   "TELPON": "(0380)-833111,  833247",
-   "E-MAIL": "",
-   "GAMBAR": ""
- },
- {
-   "ID": 20,
-   "PROVINSI": "Kalimantan Barat",
-   "ALAMAT KANTOR GUBERNUR": "JL. Ahmad Yani, Pontianak (78124)",
-   "ALAMAT WEBSITE": "http://kalbarprov.go.id/",
-   "TELPON": "(0561)-736541,  732001 ext. 110",
-   "E-MAIL": "",
-   "GAMBAR": ""
- },
- {
-   "ID": 21,
-   "PROVINSI": "Kalimantan Tengah",
-   "ALAMAT KANTOR GUBERNUR": "JL. RTA Milono No.1, Menteng, Jekan Raya, Kota Palangka Raya\nKalimantan Tengah (73111)",
-   "ALAMAT WEBSITE": "http://www.kalteng.go.id/",
-   "TELPON": "(0536)-21144 - 21214, 3221538",
-   "E-MAIL": "",
-   "GAMBAR": ""
- },
- {
-   "ID": 22,
-   "PROVINSI": "Kalimantan Selatan",
-   "ALAMAT KANTOR GUBERNUR": "JL. Aneka Tambang, Trikora, Palam, Cempaka\nKota Banjar Baru, Kalimantan Selatan (70114)",
-   "ALAMAT WEBSITE": "http://kalselprov.go.id/",
-   "TELPON": "(0511)- 3363845, 3352667",
-   "E-MAIL": "",
-   "GAMBAR": ""
- },
- {
-   "ID": 23,
-   "PROVINSI": "Kalimantan Timur",
-   "ALAMAT KANTOR GUBERNUR": "Jalan Gadjah Mada No. 1, Kota Samarinda, Kaltim (75242)",
-   "ALAMAT WEBSITE": "http://www.kaltimprov.go.id/",
-   "TELPON": "(0541)-32555, 733333, 741942, 744001",
-   "E-MAIL": "",
-   "GAMBAR": ""
- },
- {
-   "ID": 24,
-   "PROVINSI": "Kalimantan Utara",
-   "ALAMAT KANTOR GUBERNUR": "JL. Kol. Soetadji No.1, Tanjung Selor Hilir, Tanjung Selor\nKabupaten Bulungan, Kalimantan Utara (77212)",
-   "ALAMAT WEBSITE": "https://kaltaraprov.go.id/",
-   "TELPON": "(0552) - 22454",
-   "E-MAIL": "humasprokaltara@gmail.com",
-   "GAMBAR": ""
- },
- {
-   "ID": 25,
-   "PROVINSI": "Sulawesi Utara",
-   "ALAMAT KANTOR GUBERNUR": "JL. 17 Agustus No.69, Teling Atas, Wanea, Kota Manado",
-   "ALAMAT WEBSITE": "http://www.sulutprov.go.id/",
-   "TELPON": "(0431)-865559,  86200, 865437, 861630",
-   "E-MAIL": "",
-   "GAMBAR": ""
- },
- {
-   "ID": 27,
-   "PROVINSI": "Sulawesi Selatan",
-   "ALAMAT KANTOR GUBERNUR": "JL. Urip Sumoharjo No.269, Panaikang, Panakkukang\nKota Makassar, Sulawesi Selatan (90231)",
-   "ALAMAT WEBSITE": "https://sulselprov.go.id/",
-   "TELPON": "(0411) - 453192, 45320",
-   "E-MAIL": "",
-   "GAMBAR": ""
- },
- {
-   "ID": 28,
-   "PROVINSI": "Sulawesi Tenggara",
-   "ALAMAT KANTOR GUBERNUR": "Komp Bumi Praja Andonuhu Kota Kendari Sultra, Anduonohu\nPoasia, Kota Kendari, Sulawesi Tenggara (93231)",
-   "ALAMAT WEBSITE": "http://www.sultraprov.go.id/",
-   "TELPON": "(0401)-391617,  391609",
-   "E-MAIL": "",
-   "GAMBAR": ""
- },
- {
-   "ID": 29,
-   "PROVINSI": "Gorontalo",
-   "ALAMAT KANTOR GUBERNUR": "JL. Sapta Marga, Botu, Dombo Raya, Gorontalo (96134)",
-   "ALAMAT WEBSITE": "https://www.gorontaloprov.go.id/",
-   "TELPON": "(0435) - 821277",
-   "E-MAIL": "",
-   "GAMBAR": ""
- },
- {
-   "ID": 30,
-   "PROVINSI": "Sulawesi Barat",
-   "ALAMAT KANTOR GUBERNUR": "Kompleks Perkantoran Gubernur, Jl. Abdul Malik Pattana\nEndeng, Rangas, Mamuju, Sulawesi Barat (91512)",
-   "ALAMAT WEBSITE": "http://www.sulbarprov.go.id/",
-   "TELPON": "(0426) - 22680, 22677",
-   "E-MAIL": "",
-   "GAMBAR": ""
- },
- {
-   "ID": 31,
-   "PROVINSI": "Maluku",
-   "ALAMAT KANTOR GUBERNUR": "JL. Dr. Latumeten, No.12 - Ambon",
-   "ALAMAT WEBSITE": "http://www.malukuprov.go.id/",
-   "TELPON": "(0911) - 342460",
-   "E-MAIL": "",
-   "GAMBAR": ""
- },
- {
-   "ID": 32,
-   "PROVINSI": "Maluku Utara",
-   "ALAMAT KANTOR GUBERNUR": "JL. Trans Halmahera, Gosale Puncak, Oba Utara, Sofifi\nOba Utara, Kota Tidore Kepulauan, Maluku Utara",
-   "ALAMAT WEBSITE": "http://www.malutprov.go.id/",
-   "TELPON": "(0921) - 21044",
-   "E-MAIL": "",
-   "GAMBAR": ""
- },
- {
-   "ID": 33,
-   "PROVINSI": "Papua",
-   "ALAMAT KANTOR GUBERNUR": "JL. Soa Sio Dok, Jayapura (99115)",
-   "ALAMAT WEBSITE": "https://papua.go.id/",
-   "TELPON": "(0967) - 537523",
-   "E-MAIL": "",
-   "GAMBAR": ""
- },
- {
-   "ID": 34,
-   "PROVINSI": "Papua Barat",
-   "ALAMAT KANTOR GUBERNUR": "JL.Siliwangi No.1 Manokwari (98315)",
-   "ALAMAT WEBSITE": "https://papuabaratprov.go.id/",
-   "TELPON": "(0986) - 211719",
-   "E-MAIL": "",
-   "GAMBAR": ""
- }
-]
+  "data": [
+    {
+      "ID": 1,
+      "PROVINSI": "Aceh",
+      "ALAMAT KANTOR GUBERNUR": "JL. T. Nyak Arief No.219, Banda Aceh (23114)",
+      "ALAMAT WEBSITE": "www.acehprov.go.id",
+      "TELPON": "T: (0651)-7551377\nF: (0651)-7552307,  7555516, 7555518, 7553048",
+      "E-MAIL": "humas@acehprov.go.id",
+      "GAMBAR": "https://www.ajnn.net/files/images/20200304-20190108-kantor-gubbb.jpg"
+    },
+    {
+      "ID": 2,
+      "PROVINSI": "Sumatera Utara",
+      "ALAMAT KANTOR GUBERNUR": "JL. Pangeran Diponegoro No.30, Medan (20152)",
+      "ALAMAT WEBSITE": "http://www.sumutprov.go.id/",
+      "TELPON": "T: (061)-4567611\nF: (061)-456711, 520111, 4535449",
+      "E-MAIL": "secretariat@sumutprov.go.id",
+      "GAMBAR": "https://sumutprov.go.id/content/userfiles/Kantor_Gubernur_Sumatra_Utara_03.jpg"
+    },
+    {
+      "ID": 3,
+      "PROVINSI": "Sumatera Barat",
+      "ALAMAT KANTOR GUBERNUR": "JL. Jenderal Sudirman No.51, Padang",
+      "ALAMAT WEBSITE": "https://www.sumbarprov.go.id/",
+      "TELPON": "(0751)-31401, 31402, 34425",
+      "E-MAIL": "diskominfo@sumbarprov.go.id",
+      "GAMBAR": "https://www.sumbarprov.go.id/images/2020/07/slider/MASJID_RAYA_SUMBAR.png"
+    },
+    {
+      "ID": 4,
+      "PROVINSI": "Riau",
+      "ALAMAT KANTOR GUBERNUR": "JL. Jenderal Sudirman No.460, Pekanbaru, Riau (28156)",
+      "ALAMAT WEBSITE": "https://www.riau.go.id/home/",
+      "TELPON": "(0761)-47367, 47368",
+      "E-MAIL": "",
+      "GAMBAR": "https://upload.wikimedia.org/wikipedia/commons/5/59/Kantor_gubernur_riau_-_panoramio.jpg"
+    },
+    {
+      "ID": 5,
+      "PROVINSI": "Jambi",
+      "ALAMAT KANTOR GUBERNUR": "JL. Jenderal A. Yani No.1 Talanai Pura Jambi (36128)",
+      "ALAMAT WEBSITE": "http://jambiprov.go.id/v2/",
+      "TELPON": "(0741)-66269",
+      "E-MAIL": "",
+      "GAMBAR": "https://wartanews.co/wp-content/uploads/2017/03/Kantor-Gubernur-Provinsi-Jambi.jpg"
+    },
+    {
+      "ID": 6,
+      "PROVINSI": "Sumatera Selatan",
+      "ALAMAT KANTOR GUBERNUR": "Jln. Kapten A. Rifai No. 1, Palembang",
+      "ALAMAT WEBSITE": "http://www.sumselprov.go.id/",
+      "TELPON": "(0711)-352105",
+      "E-MAIL": "",
+      "GAMBAR": "https://lh3.googleusercontent.com/p/AF1QipPuITB_wYvAKy-a9zgjJqg508PDvgqxhDz6QdPa=s680-w680-h510"
+    },
+    {
+      "ID": 7,
+      "PROVINSI": "Bengkulu",
+      "ALAMAT KANTOR GUBERNUR": "JL. Pembangunan  No. 1, Bengkulu (38225)",
+      "ALAMAT WEBSITE": "https://bengkuluprov.go.id/",
+      "TELPON": "(0736)-21502",
+      "E-MAIL": "",
+      "GAMBAR": "https://bengkuluprov.go.id/wp-content/uploads/GEDUNG.jpg"
+    },
+    {
+      "ID": 8,
+      "PROVINSI": "Lampung",
+      "ALAMAT KANTOR GUBERNUR": "JL. Wolter Monginsidi No. 69, Teluk Betung, Bandar Lampung",
+      "ALAMAT WEBSITE": "http://www.lampungprov.go.id/",
+      "TELPON": "(0721)-481166",
+      "E-MAIL": "",
+      "GAMBAR": "https://www.indoplaces.com/foto/region/kantor-gubernur-lampung-2.jpg"
+    },
+    {
+      "ID": 9,
+      "PROVINSI": "Bangka Belitung",
+      "ALAMAT KANTOR GUBERNUR": "Komplek Perkantoran Terpadu, Jalan Pulau Bangka, Air Itam,\nPangkalpinang 33149",
+      "ALAMAT WEBSITE": "http://babelprov.go.id/",
+      "TELPON": "(0717)-4262141,  4262142",
+      "E-MAIL": "",
+      "GAMBAR": "https://asset-2.tstatic.net/bangka/foto/bank/images/kantor-gubernur-kep-babel-pada-ju.jpg"
+    },
+    {
+      "ID": 10,
+      "PROVINSI": "Kepulauan Riau",
+      "ALAMAT KANTOR GUBERNUR": "Pulau Dompak Jl. Basuki Rahmat Tanjung Pinang",
+      "ALAMAT WEBSITE": "https://www.kepriprov.go.id/",
+      "TELPON": "(0771)-4575000",
+      "E-MAIL": "mail@kepriprov.go.id",
+      "GAMBAR": "https://kepri.info/4rie-eval/uploads/2019/04/WhatsApp_Image_2018-10-23_at_16_56_00.jpeg"
+    },
+    {
+      "ID": 11,
+      "PROVINSI": "D.K.I Jakarta",
+      "ALAMAT KANTOR GUBERNUR": "JL. Medan Merdeka Selatan No.8-9, Jakarta Pusat (10110)",
+      "ALAMAT WEBSITE": "https://www.jakarta.go.id/",
+      "TELPON": "(021)-3456058",
+      "E-MAIL": "dki@jakarta.go.id",
+      "GAMBAR": "https://statik.tempo.co/data/2021/05/26/id_1023616/1023616_720.jpg"
+    },
+    {
+      "ID": 12,
+      "PROVINSI": "Jawa Barat",
+      "ALAMAT KANTOR GUBERNUR": "Gedung Sate Jl. Diponegoro No.22, Citarum\nBandung Wetan, Kota Bandung, Jawa Barat (40115)",
+      "ALAMAT WEBSITE": "http://www.jabarprov.go.id",
+      "TELPON": "(022)-423248, 4233347, 4230993",
+      "E-MAIL": "",
+      "GAMBAR": "https://asset.kompas.com/crops/cmekAZ7jKvYHEfoYRpByA_oWsIA=/115x217:915x750/750x500/data/photo/2023/08/13/64d87d100ad37.jpg"
+    },
+    {
+      "ID": 13,
+      "PROVINSI": "Jawa Tengah",
+      "ALAMAT KANTOR GUBERNUR": "JL. Pahlawan No.9, Semarang (50249)",
+      "ALAMAT WEBSITE": "https://jatengprov.go.id/",
+      "TELPON": "(024)-8415548 / 8453676",
+      "E-MAIL": "",
+      "GAMBAR": "https://bangda.jatengprov.go.id/assets/images/upload/profil.jpg"
+    },
+    {
+      "ID": 14,
+      "PROVINSI": "D.I Yogyakarta",
+      "ALAMAT KANTOR GUBERNUR": "JL. Malioboro No.16, Suryatmajan, Komplek Kepatihan\nDanurejan, Kota Yogyakarta (55213)",
+      "ALAMAT WEBSITE": "https://www.jogjaprov.go.id/",
+      "TELPON": "(0274)-562811,  512655",
+      "E-MAIL": "",
+      "GAMBAR": "https://jogjaprov.go.id/storage/files/shares/Berita/2022/Maret/Rekam%20Jejak%20Sejarah%20di%20Istana%20Kepresidenan%20Daerah%20Istimewa%20Yogyakarta/istana%201.jpg"
+    },
+    {
+      "ID": 15,
+      "PROVINSI": "Jawa Timur",
+      "ALAMAT KANTOR GUBERNUR": "JL. Pahlawan No.110, Alun-alun Contong, Kota Surabaya (60174)",
+      "ALAMAT WEBSITE": "http://www.jatimprov.go.id/",
+      "TELPON": "(031)-20005, 20044, 3557141",
+      "E-MAIL": "",
+      "GAMBAR": ""
+    },
+    {
+      "ID": 16,
+      "PROVINSI": "Banten",
+      "ALAMAT KANTOR GUBERNUR": "Kawasan Pusat Pemerintah Provinsi Banten, Jl. Syech Nawawi\nAl-bantani No. 1, Sukajaya, Curug, Kota Serang, Banten (42111)",
+      "ALAMAT WEBSITE": "https://bantenprov.go.id/",
+      "TELPON": "(0254)-200123",
+      "E-MAIL": "",
+      "GAMBAR": ""
+    },
+    {
+      "ID": 17,
+      "PROVINSI": "Bali",
+      "ALAMAT KANTOR GUBERNUR": "JL. Basuki Rahmat No. 1, Denpasar",
+      "ALAMAT WEBSITE": "http://www.baliprov.go.id",
+      "TELPON": "(0361)-224671,  35155",
+      "E-MAIL": "",
+      "GAMBAR": ""
+    },
+    {
+      "ID": 18,
+      "PROVINSI": "Nusa Tenggara Barat",
+      "ALAMAT KANTOR GUBERNUR": "JL. Pejanggik No.12, Pejanggik, Kec. Mataram, Kota Mataram\nNusa Tenggara Barat (83122)",
+      "ALAMAT WEBSITE": "https://www.ntbprov.go.id/",
+      "TELPON": "(0370)-31000, 622373, 622833",
+      "E-MAIL": "",
+      "GAMBAR": ""
+    },
+    {
+      "ID": 19,
+      "PROVINSI": "Nusa Tenggara Timur",
+      "ALAMAT KANTOR GUBERNUR": "JL. El Tari No.52, Oebobo, Kota Kupang, NTT (85111)",
+      "ALAMAT WEBSITE": "http://nttprov.go.id/ntt2016/",
+      "TELPON": "(0380)-833111,  833247",
+      "E-MAIL": "",
+      "GAMBAR": ""
+    },
+    {
+      "ID": 20,
+      "PROVINSI": "Kalimantan Barat",
+      "ALAMAT KANTOR GUBERNUR": "JL. Ahmad Yani, Pontianak (78124)",
+      "ALAMAT WEBSITE": "http://kalbarprov.go.id/",
+      "TELPON": "(0561)-736541,  732001 ext. 110",
+      "E-MAIL": "",
+      "GAMBAR": ""
+    },
+    {
+      "ID": 21,
+      "PROVINSI": "Kalimantan Tengah",
+      "ALAMAT KANTOR GUBERNUR": "JL. RTA Milono No.1, Menteng, Jekan Raya, Kota Palangka Raya\nKalimantan Tengah (73111)",
+      "ALAMAT WEBSITE": "http://www.kalteng.go.id/",
+      "TELPON": "(0536)-21144 - 21214, 3221538",
+      "E-MAIL": "",
+      "GAMBAR": ""
+    },
+    {
+      "ID": 22,
+      "PROVINSI": "Kalimantan Selatan",
+      "ALAMAT KANTOR GUBERNUR": "JL. Aneka Tambang, Trikora, Palam, Cempaka\nKota Banjar Baru, Kalimantan Selatan (70114)",
+      "ALAMAT WEBSITE": "http://kalselprov.go.id/",
+      "TELPON": "(0511)- 3363845, 3352667",
+      "E-MAIL": "",
+      "GAMBAR": ""
+    },
+    {
+      "ID": 23,
+      "PROVINSI": "Kalimantan Timur",
+      "ALAMAT KANTOR GUBERNUR": "Jalan Gadjah Mada No. 1, Kota Samarinda, Kaltim (75242)",
+      "ALAMAT WEBSITE": "http://www.kaltimprov.go.id/",
+      "TELPON": "(0541)-32555, 733333, 741942, 744001",
+      "E-MAIL": "",
+      "GAMBAR": ""
+    },
+    {
+      "ID": 24,
+      "PROVINSI": "Kalimantan Utara",
+      "ALAMAT KANTOR GUBERNUR": "JL. Kol. Soetadji No.1, Tanjung Selor Hilir, Tanjung Selor\nKabupaten Bulungan, Kalimantan Utara (77212)",
+      "ALAMAT WEBSITE": "https://kaltaraprov.go.id/",
+      "TELPON": "(0552) - 22454",
+      "E-MAIL": "humasprokaltara@gmail.com",
+      "GAMBAR": ""
+    },
+    {
+      "ID": 25,
+      "PROVINSI": "Sulawesi Utara",
+      "ALAMAT KANTOR GUBERNUR": "JL. 17 Agustus No.69, Teling Atas, Wanea, Kota Manado",
+      "ALAMAT WEBSITE": "http://www.sulutprov.go.id/",
+      "TELPON": "(0431)-865559,  86200, 865437, 861630",
+      "E-MAIL": "",
+      "GAMBAR": ""
+    },
+    {
+      "ID": 27,
+      "PROVINSI": "Sulawesi Selatan",
+      "ALAMAT KANTOR GUBERNUR": "JL. Urip Sumoharjo No.269, Panaikang, Panakkukang\nKota Makassar, Sulawesi Selatan (90231)",
+      "ALAMAT WEBSITE": "https://sulselprov.go.id/",
+      "TELPON": "(0411) - 453192, 45320",
+      "E-MAIL": "",
+      "GAMBAR": ""
+    },
+    {
+      "ID": 28,
+      "PROVINSI": "Sulawesi Tenggara",
+      "ALAMAT KANTOR GUBERNUR": "Komp Bumi Praja Andonuhu Kota Kendari Sultra, Anduonohu\nPoasia, Kota Kendari, Sulawesi Tenggara (93231)",
+      "ALAMAT WEBSITE": "http://www.sultraprov.go.id/",
+      "TELPON": "(0401)-391617,  391609",
+      "E-MAIL": "",
+      "GAMBAR": ""
+    },
+    {
+      "ID": 29,
+      "PROVINSI": "Gorontalo",
+      "ALAMAT KANTOR GUBERNUR": "JL. Sapta Marga, Botu, Dombo Raya, Gorontalo (96134)",
+      "ALAMAT WEBSITE": "https://www.gorontaloprov.go.id/",
+      "TELPON": "(0435) - 821277",
+      "E-MAIL": "",
+      "GAMBAR": ""
+    },
+    {
+      "ID": 30,
+      "PROVINSI": "Sulawesi Barat",
+      "ALAMAT KANTOR GUBERNUR": "Kompleks Perkantoran Gubernur, Jl. Abdul Malik Pattana\nEndeng, Rangas, Mamuju, Sulawesi Barat (91512)",
+      "ALAMAT WEBSITE": "http://www.sulbarprov.go.id/",
+      "TELPON": "(0426) - 22680, 22677",
+      "E-MAIL": "",
+      "GAMBAR": ""
+    },
+    {
+      "ID": 31,
+      "PROVINSI": "Maluku",
+      "ALAMAT KANTOR GUBERNUR": "JL. Dr. Latumeten, No.12 - Ambon",
+      "ALAMAT WEBSITE": "http://www.malukuprov.go.id/",
+      "TELPON": "(0911) - 342460",
+      "E-MAIL": "",
+      "GAMBAR": ""
+    },
+    {
+      "ID": 32,
+      "PROVINSI": "Maluku Utara",
+      "ALAMAT KANTOR GUBERNUR": "JL. Trans Halmahera, Gosale Puncak, Oba Utara, Sofifi\nOba Utara, Kota Tidore Kepulauan, Maluku Utara",
+      "ALAMAT WEBSITE": "http://www.malutprov.go.id/",
+      "TELPON": "(0921) - 21044",
+      "E-MAIL": "",
+      "GAMBAR": ""
+    },
+    {
+      "ID": 33,
+      "PROVINSI": "Papua",
+      "ALAMAT KANTOR GUBERNUR": "JL. Soa Sio Dok, Jayapura (99115)",
+      "ALAMAT WEBSITE": "https://papua.go.id/",
+      "TELPON": "(0967) - 537523",
+      "E-MAIL": "",
+      "GAMBAR": ""
+    },
+    {
+      "ID": 34,
+      "PROVINSI": "Papua Barat",
+      "ALAMAT KANTOR GUBERNUR": "JL.Siliwangi No.1 Manokwari (98315)",
+      "ALAMAT WEBSITE": "https://papuabaratprov.go.id/",
+      "TELPON": "(0986) - 211719",
+      "E-MAIL": "",
+      "GAMBAR": ""
+    }
+  ]
 }
